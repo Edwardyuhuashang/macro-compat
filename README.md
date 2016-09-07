@@ -133,6 +133,7 @@ channels (Gitter, github, etc.) to be welcoming environments for everyone.
 + [expressier][expressier]
 + [latr][latr]
 + [marley][marley]
++ [Monix][monix]
 + [Monocle][monocle]
 + [refined][refined]
 + [shapeless][shapeless]
@@ -164,6 +165,7 @@ channels (Gitter, github, etc.) to be welcoming environments for everyone.
 [tfm]: https://github.com/adelbertc/tfm
 [marley]: https://github.com/guardian/marley
 [monocle]: https://github.com/julien-truffaut/Monocle
+[monix]: https://monix.io
 [shapeless-gitter]: https://gitter.im/milessabin/shapeless
 [cats-gitter]: https://gitter.im/non/cats
 [macrocompat-gitter]: https://gitter.im/milessabin/macro-compat
